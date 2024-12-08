@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "SharmagRit",
+			"oem": "POCO",
+			"device": "POCO F5",
+			"filename": "RisingOS-6.0-STABLE-24120803-GAPPS-OFFICIAL-marble-ota.zip",
+			"download": "https://sourceforge.net/projects/sharmagrit/files/marble/A15/",
+			"timestamp": 1733625627,
+			"md5": "0d94dd48c8a9063632cef41d3a073c46",
+			"sha256": "a82da3628a32531c9a737107363e764f581681dba0341a1349f16771f532c231",
+			"size": 3017715301,
+			"version": "6.0-Ascension",
+			"buildtype": "BETA",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/RiteshKrSharma",
+			"telegram": "https://t.me/SharmagRit",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
